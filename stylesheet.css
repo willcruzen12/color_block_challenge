@@ -1,0 +1,71 @@
+
+
+.title, .colorName {
+  font-family: Arial, sans-serif;
+
+}
+
+div {
+  display: inline-block;
+  float: left;
+
+}
+
+#container {
+  overflow: auto;
+  position: relative;
+  justify-content: center;
+
+
+}
+
+
+.color1 {
+  width: 0px;
+  height: 0px;
+  border-right: 60px solid transparent;
+  border-top: 60px solid green;
+  border-left: 60px solid green;
+  border-bottom: 60px solid green;
+  border-top-left-radius: 60px;
+  border-top-right-radius: 60px;
+  border-bottom-left-radius: 60px;
+  border-bottom-right-radius: 60px;
+}
+.color2 {
+  width: 0px;
+  height: 0px;
+  border-right: 60px solid transparent;
+  border-top: 60px solid yellow;
+  border-left: 60px solid yellow;
+  border-bottom: 60px solid yellow;
+  border-top-left-radius: 60px;
+  border-top-right-radius: 60px;
+  border-bottom-left-radius: 60px;
+  border-bottom-right-radius: 60px;
+}
+.color3 {
+  width: 0px;
+height: 0px;
+border-right: 60px solid transparent;
+border-top: 60px solid thistle;
+border-left: 60px solid thistle;
+border-bottom: 60px solid thistle;
+border-top-left-radius: 60px;
+border-top-right-radius: 60px;
+border-bottom-left-radius: 60px;
+border-bottom-right-radius: 60px;
+
+}
+.color4 {
+  width: 0px;
+  height: 0px;
+  border-right: 60px solid transparent;
+  border-top: 60px solid red;
+  border-left: 60px solid red;
+  border-bottom: 60px solid red;
+  border-top-left-radius: 60px;
+  border-top-right-radius: 60px;
+  border-bottom-left-radius: 60px;
+  border-bottom-right-radius: 60px;
+}
